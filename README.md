@@ -1,4 +1,5 @@
 shodankeys
+
 un script para probar las key api de shodan, obtenidas de rasurar internet. las keys deben estar en un archivo de texto plano
 
 uso:
